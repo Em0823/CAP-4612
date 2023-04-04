@@ -1,0 +1,50 @@
+make,model,fuel_type,asp,door_number,car_body,drive_wheel,wheel_base,cylinder,engine,hp,city_mpg,hwy_mpg,price
+alfa,giulia,gas,std,two,convertible,rwd,88.6,four,130,111,21,27,13495
+alfa,stelvio,gas,std,two,convertible,rwd,88.6,four,130,111,21,27,16500
+alfa,quadrifoglio,gas,std,two,hatchback,rwd,94.5,six,152,154,19,26,16500
+audi ,100ls,gas,std,four,sedan,fwd,99.8,four,109,102,24,30,13950
+audi ,100ls,gas,std,four,sedan,4wd,99.4,five,136,115,18,22,17450
+audi ,fox,gas,std,two,sedan,fwd,99.8,five,136,110,19,25,15250
+audi ,100ls,gas,std,four,sedan,fwd,105.8,five,136,110,19,25,17710
+audi ,5000,gas,std,four,wagon,fwd,105.8,five,136,110,19,25,18920
+audi ,4000,gas,turbo,four,sedan,fwd,105.8,five,131,140,17,20,23875
+audi ,5000,diesel,turbo,two,hatchback,4wd,99.5,five,131,160,16,22,17859
+bmw ,320i,gas,std,two,sedan,rwd,101.2,four,108,101,23,29,16430
+bmw ,320i,gas,std,four,sedan,rwd,101.2,four,108,101,23,29,16925
+bmw ,x1,gas,std,two,sedan,rwd,101.2,six,164,121,21,28,20970
+bmw ,x3,gas,std,four,sedan,rwd,101.2,six,164,121,21,28,21105
+bmw ,z4,gas,std,four,sedan,rwd,103.5,six,164,121,20,25,24565
+bmw ,x4,gas,std,four,sedan,rwd,103.5,six,209,182,16,22,30760
+bmw ,x5,gas,std,two,sedan,rwd,103.5,six,209,182,16,22,41315
+bmw ,x3,gas,std,four,sedan,rwd,110,six,209,182,15,20,36880
+chevrolet,impala,gas,std,two,hatchback,fwd,88.4,three,61,48,47,53,5151
+chevrolet,monte-carlo,gas,std,two,hatchback,fwd,94.5,four,90,70,38,43,6295
+chevrolet,vega,gas,std,four,sedan,fwd,94.5,four,90,70,38,43,6575
+dodge,rampage,gas,std,two,hatchback,fwd,93.7,four,90,68,37,41,5572
+dodge,challenger,gas,std,two,hatchback,fwd,93.7,four,90,68,31,38,6377
+dodge,d200,gas,turbo,two,hatchback,fwd,93.7,four,98,102,24,30,7957
+dodge,monaco,gas,std,four,hatchback,fwd,93.7,four,90,68,31,38,6229
+dodge,colt,gas,std,four,sedan,fwd,93.7,four,90,68,31,38,6692
+dodge,colt,gas,std,four,sedan,fwd,93.7,four,90,68,31,38,7609
+dodge,coronet,gas,turbo,two,sedan,fwd,93.7,four,98,102,24,30,8558
+dodge,dart,gas,std,four,wagon,fwd,103.3,four,122,88,24,30,8921
+dodge,coronet,gas,turbo,two,hatchback,fwd,95.9,four,156,145,19,24,12964
+honda,civic,gas,std,two,hatchback,fwd,86.6,four,92,58,49,54,6479
+honda,civic,gas,std,two,hatchback,fwd,86.6,four,92,76,31,38,6855
+honda,civic,gas,std,two,hatchback,fwd,93.7,four,79,60,38,42,5399
+honda,accord,gas,std,two,hatchback,fwd,93.7,four,92,76,30,34,6529
+honda,civic,gas,std,two,hatchback,fwd,93.7,four,92,76,30,34,7129
+honda,accord,gas,std,four,sedan,fwd,96.5,four,92,76,30,34,7295
+honda,civic,gas,std,four,wagon,fwd,96.5,four,92,76,30,34,7295
+honda,accord,gas,std,two,hatchback,fwd,96.5,four,110,86,27,33,7895
+honda,civic,gas,std,two,hatchback,fwd,96.5,four,110,86,27,33,9095
+honda,accord,gas,std,four,sedan,fwd,96.5,four,110,86,27,33,10295
+honda,civic,gas,std,four,sedan,fwd,96.5,four,110,101,24,28,12945
+honda,civic,gas,std,two,sedan,fwd,96.5,four,110,100,25,31,10345
+jaguar ,xj,gas,std,four,sedan,rwd,113,six,258,176,15,19,32250
+jaguar ,xf,gas,std,four,sedan,rwd,113,six,258,176,15,19,35550
+jaguar ,xk,gas,std,two,sedan,rwd,102,twelve,326,262,13,17,36000
+mazda ,rx3,gas,std,two,hatchback,fwd,93.1,four,91,68,30,31,5195
+mazda ,glc,gas,std,two,hatchback,fwd,93.1,four,91,68,31,38,6095
+mazda ,rx2,gas,std,two,hatchback,fwd,93.1,four,91,68,31,38,6795
+mazda ,rx4,gas,std,four,sedan,fwd,93.1,four,91,68,31,38,6695
